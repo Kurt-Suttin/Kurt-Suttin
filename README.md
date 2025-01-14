@@ -20,6 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kurt-Suttin&theme=sunset-gradient)](https://git.io/streak-stats)
+https://kurtlesuttin.myportfolio.com/webdevelopmentprojects
+
 
