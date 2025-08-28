@@ -36,19 +36,34 @@
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
 
-![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurtsuttin&show_icons=true&theme=tokyonight&hide_border=true)  
+<p align="center">
+  <!-- Streak (often the most reliable) -->
+  <img
+    src="https://streak-stats.demolab.com?user=Kurtsuttin&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kurtsuttin&theme=tokyonight&hide_border=true)  
+<p align="center">
+  <!-- Core stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kurtsuttin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+    alt="Kurt's GitHub stats"
+    height="165"
+  />
+  <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurtsuttin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurtsuttin&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
-## 🌐 Let’s Connect  
+## 🌐 Portfolio  
 - Public Portfolio: [kurtlesuttin.myportfolio.com](https://kurtlesuttin.myportfolio.com/webdevelopmentprojects)  
 
 ---
