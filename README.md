@@ -1,9 +1,4 @@
 # 👋 Hi, I’m Kurt Suttin  
-
-<div align="start">
-  <img src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l4YmZsbTl3aGN4N24wanFtaGp3MGZsZTVwZHN3dGF4Znh6bWU4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/800iiDTaNNFOwytONV/giphy.gif)" width="300"/>
-</div>
-
 ---
 
 ## 🚀 About Me  
