@@ -60,5 +60,3 @@
 ## 🌐 Portfolio  
 - Public Portfolio: [kurtlesuttin.myportfolio.com](https://kurtlesuttin.myportfolio.com/webdevelopmentprojects)  
 
----
-⭐️ From [Kurtsuttin](https://github.com/Kurtsuttin)
