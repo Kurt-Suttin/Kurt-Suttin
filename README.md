@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Kurt Suttin  
----
 
 ## 🚀 About Me  
 - 💻 Full-time Software Developer | Buisness Analyst
