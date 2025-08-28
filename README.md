@@ -1,13 +1,20 @@
-# Kurt Suttin 
-### 
-:wave: Hey it's Kurt 
-<div>
+# 👋 Hi, I’m Kurt Suttin  
+
+<div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300"/>
 </div>
 
+---
 
-:hammer_and_wrench: Languages and Tools :
+## 🚀 About Me  
+- 💻 Full-time Software Developer | Buisness Analyst
+- 🏗️ Founder of Lighthouse Solutions — helping small businesses build future-proof websites & apps  
+- 🔥 Passionate about Angular, Spring Boot, and scalable web apps  
+- 🌎 Based in Texas 
 
+---
+
+## 🛠️ Languages & Tools  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -26,4 +33,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-https://kurtlesuttin.myportfolio.com/webdevelopmentprojects
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+
+![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurtsuttin&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kurtsuttin&theme=tokyonight&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurtsuttin&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Let’s Connect  
+- Public Portfolio: [kurtlesuttin.myportfolio.com](https://kurtlesuttin.myportfolio.com/webdevelopmentprojects)  
+
+---
+⭐️ From [Kurtsuttin](https://github.com/Kurtsuttin)
