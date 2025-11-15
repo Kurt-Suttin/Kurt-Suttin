@@ -56,13 +56,6 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Kurt-Suttin&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-stats.vercel.app/api?username=Kurt-Suttin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
     alt="Kurt's GitHub stats"
     height="165"
