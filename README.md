@@ -55,18 +55,19 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Kurt-Suttin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Kurt's GitHub       stats" height="165" />
-  
-  <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurt-Suttin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-      alt="Top Languages"
-      height="165"/>
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurt-Suttin&theme=tokyonight" width="100%"/>
 </p>
 
-<img src="https://streak-stats.demolab.com?user=Kurt-Suttin&theme=tokyonight&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kurt-Suttin&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kurt-Suttin&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kurt-Suttin&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kurt-Suttin&theme=tokyonight&utcOffset=-6" height="180" />
+</p>
+
 
 
 ---
