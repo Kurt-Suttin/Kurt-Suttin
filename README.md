@@ -54,7 +54,8 @@
 
 ## 📊 GitHub Stats  
 
-> ⚠️ *Note: My current GitHub stats appear low because nearly all of my recent work (2024–2025) is done in private repositories. The stats shown below reflect my public activity from 2023, which better represents my open-source work.*
+> ⚠️ *Note: My current GitHub stats appear low because nearly all of my recent work (2024–2025) is done in private repositories.
+In 2023 i had 300+ public commits *
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurt-Suttin&theme=tokyonight" width="100%"/>
