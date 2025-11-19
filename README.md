@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kurt Suttin  
 
-## 🚀 About Me  
+## About Me  
 - 💻 Full-time Software Developer | Business Analyst
 - 🏗️ Founder of Lighthouse Solutions — creating websites, apps, and SaaS tools for small businesses.
 - 🌟 Favorite Stack: Angular, Firebase , hosted with Vercel   
