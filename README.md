@@ -69,5 +69,8 @@
 </p>
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurt-Suttin&theme=tokyonight&year=2023" width="100%" />
+
+
 
 ---
