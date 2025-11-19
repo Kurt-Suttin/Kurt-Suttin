@@ -56,7 +56,7 @@
 
 > ⚠️ *Because the majority of my development work in 2024–2025 is stored in private repositories (client projects + commercial apps), my public GitHub stats may appear lower than my actual activity.*  
 >
-> **Public commit totals:**  
+> **Github commit totals:**  
 > • **2023:** 530 commits  
 > • **2024:** 162 commits  
 > • **2025:** 261 commits (ongoing)
