@@ -73,19 +73,7 @@
 
 > ⚠️ *Note: My current GitHub stats appear low because nearly all of my recent work (2024–2025) is done in private repositories. The stats shown below reflect my public activity from 2023, which better represents my open-source work.*
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurt-Suttin&theme=tokyonight&year=2023" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kurt-Suttin&theme=tokyonight&year=2023" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kurt-Suttin&theme=tokyonight&year=2023" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kurt-Suttin&theme=tokyonight&year=2023" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kurt-Suttin&theme=tokyonight&utcOffset=-6&year=2023" height="180" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kurt-Suttin&theme=tokyonight" height="180" />
 
 
 ---
