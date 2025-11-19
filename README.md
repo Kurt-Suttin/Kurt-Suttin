@@ -54,8 +54,13 @@
 
 ## 📊 GitHub Stats  
 
-> ⚠️ *Note: My current GitHub stats appear low because nearly all of my recent work (2024–2025) is done in private repositories.
-In 2023 i had 300+ public commits *
+> ⚠️ *Because the majority of my development work in 2024–2025 is stored in private repositories (client projects + commercial apps), my public GitHub stats may appear lower than my actual activity.*  
+>
+> **Public commit totals:**  
+> • **2023:** 530 commits  
+> • **2024:** 162 commits  
+> • **2025:** 261 commits (ongoing)
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurt-Suttin&theme=tokyonight" width="100%"/>
