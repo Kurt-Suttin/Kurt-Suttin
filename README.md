@@ -57,8 +57,7 @@
 <p align="center">
 
 
-![Total Commits](https://github-readme-streak-stats.herokuapp.com/?user=Kurt-Suttin&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Kurt-Suttin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Kurt's GitHub stats" height="165" />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurt-Suttin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
