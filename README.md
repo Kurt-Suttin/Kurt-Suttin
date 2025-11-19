@@ -66,7 +66,7 @@
   
 </p>
 
-![Metrics](https://github.com/Kurt-Suttin/Kurt-Suttin/blob/main/github-metrics.svg)
+<img src="https://streak-stats.demolab.com?user=Kurt-Suttin&theme=tokyonight&hide_border=true" height="165"/>
 
 
 ---
