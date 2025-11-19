@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 - 💻 Full-time Software Developer | Business Analyst
-- 🏗️ Founder of Lighthouse Solutions — helping small businesses build future-proof websites & apps  
+- 🏗️ Founder of Lighthouse Solutions — creating websites, apps, and SaaS tools for small businesses.
 - 🔥 Favorite Stack: Angular, Firebase , hosted with Vercel   
 - 🌎 Based in Texas 
 
