@@ -55,10 +55,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=Kurt-Suttin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="165"
-/>
+
+
+![Total Commits](https://github-readme-streak-stats.herokuapp.com/?user=Kurt-Suttin&theme=tokyonight&hide_border=true)
+
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurt-Suttin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
